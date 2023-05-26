@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Slier
+title: Slicer
 permalink: /slicer/
 ---
 
