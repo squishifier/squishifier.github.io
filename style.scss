@@ -279,12 +279,12 @@ nav {
   // border-bottom: 1px solid #ddd;
   // background-color: $lightGray;
   background-color: $white;
+  max-width: 1200px;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
-  max-width: 1200px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
