@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Slier
+permalink: /slicer/
 ---
 
-Some information about you!
+### Slicer
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Slice your geometries!
