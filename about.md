@@ -26,6 +26,8 @@ Text
 
 Text
 
-### Contact me
+## Clips
 
-[email@domain.com](mailto:email@domain.com)
+<a href="/objects/clip-7mm-2.stl" download="clip_7mm">
+  <img src="/images/clip.png" alt="clip">
+</a>
