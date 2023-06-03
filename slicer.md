@@ -8,6 +8,8 @@ permalink: /slicer/
 
 Slice your geometries!
 
+<script>
+    
 kiri.newEngine()
     .setListener(display_message)
     .load("/obj/cube.stl")
@@ -25,6 +27,9 @@ kiri.newEngine()
     .then(eng => eng.prepare())
     .then(eng => eng.export())
     .then(display_gcode);
+</script>
+    
+<script>
     
 let api = kiri.frame;
 api.setMode('FDM');
@@ -39,6 +44,7 @@ api.on('slice.done', () => {
 api.on('prepare.done', () => {
     api.export();
 });
+</script>
 
 <!-- <iframe src="https://github.com/sameer/svg2gcode" width="100%" height="600" style="border:none;"> -->
 <!-- </iframe> -->
