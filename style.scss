@@ -133,9 +133,11 @@ img {
   width: 400px;
   max-width: 40%;
   float: left;
+  clear: right;
   
   @include mobile {
     text-align: center;
+    max-width: 60%;
     float: none;
     display: block;
     margin: 0 auto;
@@ -151,9 +153,11 @@ img {
   width: 400px;
   max-width: 40%;
   float: right;
+  clear: left;
   
   @include mobile {
     text-align: center;
+     max-width: 60%;
     float: none;
     display: block;
     margin: 0 auto;
