@@ -130,6 +130,7 @@ img {
 
 img.link {
   transition: transform .2s;
+  max-width: 300px;
 }
 
 img.link:hover {
