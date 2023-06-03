@@ -29,7 +29,7 @@ Text
 
 
 <a href="/objects/clip-7mm-2.stl" download="clip_7mm.stl">
-  <img class="link" src="/images/clip-2.png" alt="clip">
+  <img class="link" style="float: left" src="/images/clip-2.png" alt="clip">
 </a>
 
 ## Clip
