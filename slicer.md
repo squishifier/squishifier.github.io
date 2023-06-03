@@ -4,7 +4,7 @@ title: Slicer
 permalink: /slicer/
 ---
 
-### Slicer
+## Slicer
 
 Slice your geometries!
 
