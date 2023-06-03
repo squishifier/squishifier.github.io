@@ -7,7 +7,6 @@ permalink: /library/
 ## New layer
 
 G-code for new layer.
-
 ```
 G0 Z10
 G0 X0 Y30
