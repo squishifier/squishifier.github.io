@@ -20,15 +20,12 @@ html {
 body {
 	background: $white;
   // font: 18px/1.4 $helvetica;
-  // font: 18px/1.4 $helveticaNeue;
-  // font-weight: 300;
-  // letter-spacing: 1px;
 	
   font-family: roboto, sans-serif;
   font-weight: 200;
   font-style: normal;
 	
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.4;
 	
   color: $darkGray;
@@ -42,26 +39,7 @@ body {
   width: 100%;
 }
 
-h1 {
-  // font-family: $helveticaNeue;
-	
-  font-family: "lores-9-plus-narrow", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-  
-  color: $darkerGray;
-  // font-weight: bold;
-
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
-
-  @include mobile {
-    line-height: 1.4;
-  }
-}
-
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   // font-family: $helveticaNeue;
 	
   font-family: "lores-9-plus-narrow", sans-serif;
