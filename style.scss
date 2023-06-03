@@ -128,7 +128,7 @@ img {
   max-width: 100%;
 }
 
-img.left {
+.left {
   transition: transform .2s;
   width: 400px;
   max-width: 40%;
@@ -142,11 +142,11 @@ img.left {
   }
 }
 
-img.left:hover {
+.left:hover {
   transform: scale(1.1);
 }
 
-img.right {
+.right {
   transition: transform .2s;
   width: 400px;
   max-width: 40%;
@@ -160,7 +160,7 @@ img.right {
   }
 }
 
-img.right:hover {
+.right:hover {
   transform: scale(1.1);
 }
 
