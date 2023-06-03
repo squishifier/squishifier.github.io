@@ -29,14 +29,14 @@ Text
 
 
 <a href="/objects/clip-7mm-2.stl" download="clip_7mm.stl">
-  <img class="link" style="float: left" src="/images/clip-2.png" alt="clip">
+  <img class="link" style="float: left" src="/images/clip-3.png" alt="clip">
 </a>
 
 ## Clip
 Use this clip to securely attach your plastic sheets to the 3D printer bed. Download the .stl file by clicking on the picture. Print two, four or more of these clips using your 3d printer.
 
 <a href="/objects/feeder-7mm-double-1.stl" download="feeder_7mm.stl">
-  <img class="link" src="/images/feeder.png" alt="feeder">
+  <img class="link" style="float: right" src="/images/feeder.png" alt="feeder">
 </a>
 
 ## Feeder
