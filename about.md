@@ -26,12 +26,12 @@ Text
 
 Text
 
+<div>
 <a href="/objects/clip-7mm-2.stl" download="clip_7mm.stl">
   <img class="link" style="float: left" src="/images/clip-3.png" alt="clip">
 </a>
 
-<div>
-## Clip
+  <h2>Clip</h2>
 Use this clip to securely attach your plastic sheets to the 3D printer bed. Download the .stl file by clicking on the picture. Print two, four or more of these clips using your 3d printer.
 </div>
 
