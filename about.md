@@ -37,5 +37,5 @@ Use this clip to securely attach your plastic sheets to the 3D printer bed. Down
   <img class="link" style="float: right" src="/images/feeder.png" alt="feeder">
 </a>
 
-<h2 style="clear: both">Feeder</h2>
+<h2 style="clear: left">Feeder</h2>
 Download a pair of feeder tools in an .stl format by clicking on the image above. Use your 3D printer to print these tools. Attach the feeders to your printer bed for multi-layer inflatable prototyping.<br><br><br><br><br><br><br><br><br><br>
