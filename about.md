@@ -28,6 +28,6 @@ Text
 
 ## Clips
 
-<a href="/objects/clip-7mm-2.stl" download="clip_7mm">
+<a href="/objects/clip-7mm-2.stl" download="clip_7mm.stl">
   <img class="link" src="/images/clip-2.png" alt="clip">
 </a>
