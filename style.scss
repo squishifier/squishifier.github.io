@@ -128,13 +128,39 @@ img {
   max-width: 100%;
 }
 
-img.link {
+img.left {
   transition: transform .2s;
   width: 400px;
   max-width: 40%;
+  float: left;
+  
+  @include mobile {
+    text-align: center;
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
 }
 
-img.link:hover {
+img.left:hover {
+  transform: scale(1.1);
+}
+
+img.right {
+  transition: transform .2s;
+  width: 400px;
+  max-width: 40%;
+  float: right;
+  
+  @include mobile {
+    text-align: center;
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+img.right:hover {
   transform: scale(1.1);
 }
 
@@ -321,8 +347,6 @@ footer {
   padding: 20px 0;
   text-align: center;
   border-top: 1px solid $lightGray;
-  @include mobile {
-    text-align: center;
   }
 }
 
