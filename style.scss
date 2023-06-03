@@ -128,6 +128,14 @@ img {
   max-width: 100%;
 }
 
+img.link {
+  transition: transform .2s;
+}
+
+img.link:hover {
+  transform: scale(1.1);
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
