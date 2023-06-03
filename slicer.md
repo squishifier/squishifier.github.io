@@ -25,6 +25,20 @@ kiri.newEngine()
     .then(eng => eng.prepare())
     .then(eng => eng.export())
     .then(display_gcode);
+    
+let api = kiri.frame;
+api.setMode('FDM');
+api.clear();
+api.load('/obj/cube.stl');
+api.on('loaded', () => {
+    api.slice();
+});
+api.on('slice.done', () => {
+  api.prepare();
+});
+api.on('prepare.done', () => {
+    api.export();
+});
 
 <!-- <iframe src="https://github.com/sameer/svg2gcode" width="100%" height="600" style="border:none;"> -->
 <!-- </iframe> -->
