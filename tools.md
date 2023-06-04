@@ -4,7 +4,7 @@ title: Tools
 permalink: /tools/
 ---
 
-You can find all the tools that you need to turn your 3D printer into a prototyping machine for inflatables on this page. By clicking on the images, you can download the .stl files for the tools, ready to be 3D printed.<br>
+You can find all the tools that you need to turn your 3D printer into a prototyping machine for inflatables on this page. By clicking on the images, you can download the .stl files for the tools, ready to be 3D printed.<br><br><br>
 
 <a href="/objects/clip-7mm-2.stl" download="clip_7mm.stl">
   <img class="left" src="/images/clip-3.png" alt="clip">
