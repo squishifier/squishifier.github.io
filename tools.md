@@ -4,7 +4,7 @@ title: Tools
 permalink: /tools/
 ---
 
-You can find all the tools that you need to turn your 3D printer into a prototyping machine for inflatables on this page. By clicking on the images, you can download the .stl files for the tools, ready to be 3D printed.
+You can find all the tools that you need to turn your 3D printer into a prototyping machine for inflatables on this page. By clicking on the images, you can download the .stl files for the tools, ready to be 3D printed.<br>
 
 <a href="/objects/clip-7mm-2.stl" download="clip_7mm.stl">
   <img class="left" src="/images/clip-3.png" alt="clip">
@@ -21,7 +21,7 @@ Use this clip to securely attach your plastic sheets to the 3D printer bed. Down
 Download a pair of feeder tools in an .stl format by clicking on the image above. Use your 3D printer to print these tools. Attach the feeders to your printer bed for multi-layer inflatable prototyping.
 
 <div class="clearfix"><a href="/objects/hot-end-extension-1.stl" download="hook.stl">
-  <img class="left" src="/images/hook.png" alt="hook">
+  <img class="left" src="/images/hook-2.png" alt="hook">
 </a>
 
 <h2 style="clear: right">Hook</h2>
