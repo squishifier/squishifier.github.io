@@ -120,7 +120,12 @@ em, i {
   font-style: italic;
 }
 
-strong, b {
+strong {
+  font-weight: 400;
+  color: $darkGray;
+}
+
+b {
   font-weight: bold;
 }
 
