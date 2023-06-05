@@ -9,7 +9,7 @@ This section helps you determine the right machine setting for your application,
 ## Pick your material
 
 Adjust your settings according to what material you would like to seal. You can determine the right settings based on the chart below developed as part of the <a href="https://www.media.mit.edu/projects/therms-up/overview/#:~:text=Therms%2DUp!%20is%20a%20DIY,that%20easily%20found%20at%20home." target="_blank"><strong>Therms-Up!</strong></a> project. Some materials can be sealed more easily by placing a cardboard underneath or an aluminium foil on top of it. The following snippets of code were developed for sealing metalised film from crisps packets placed on top of a 2mm thick piece of cardboard.
-<img src="./images/material-chart.png" alt="Material properties">
+<img src="/images/material-chart.png" alt="Material properties">
 
 ## Seal top two layers
 
