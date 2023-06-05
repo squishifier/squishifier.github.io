@@ -8,7 +8,7 @@ This section helps you determine the right machine setting for your application,
 
 ## Pick your material
 
-Adjust your settings according to what material you would like to seal. You can determine the right settings based on the chart below developed as part of the <a href="https://www.media.mit.edu/projects/therms-up/overview/#:~:text=Therms%2DUp!%20is%20a%20DIY,that%20easily%20found%20at%20home." target="_blank"><strong>Therms-Up!</strong></a> project. Some materials can be sealed more easily by placing a cardboard underneath or an aluminium foil on top of it. The following snippets of code were developed for sealing metalised film from crisps packets placed on top of a 2mm thick piece of cardboard.
+Adjust your settings according to what material you would like to seal. You can determine the right settings based on the chart below developed as part of the <strong><a href="https://www.media.mit.edu/projects/therms-up/overview/#:~:text=Therms%2DUp!%20is%20a%20DIY,that%20easily%20found%20at%20home." target="_blank">Therms-Up!</a></strong> project. Some materials can be sealed more easily by placing a cardboard underneath or an aluminium foil on top of it. The following snippets of code were developed for sealing metalised film from crisps packets placed on top of a 2mm thick piece of cardboard.
 <img src="/images/material-chart.png" alt="Material properties">
 
 ## Seal top two layers
@@ -37,7 +37,7 @@ You can use these settings to not only seal multiple layers of plastic sheets to
 
 ## New layer
 
-You can insert this section of code into your .GCODE file where you require the 3D printer to load a new layer of plastic sheet on top of the prototype. This code is only functional if the 3D printed add-ons available from the <strong>Tools</strong> section are attached to the 3D printer.
+You can insert this section of code into your .GCODE file where you require the 3D printer to load a new layer of plastic sheet on top of the prototype. This code is only functional if the 3D printed add-ons available from the Tools section are attached to the 3D printer.
 
 ```
 G0 Z10
