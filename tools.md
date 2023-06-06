@@ -18,11 +18,11 @@ Use this clip to securely attach your plastic sheets to the 3D printer bed. Down
 </a>
 
 <h2 style="clear: left">Feeder</h2>
-Download a pair of feeder tools in an .STL format by clicking on the image above. Use your 3D printer to print these tools. Attach the feeders to your printer bed for multi-layer inflatable prototyping.
+Download a pair of feeder tools in an .STL format by clicking on the image above. Use your 3D printer to print these tools. Attach the feeders to your printer bed and load them with sheets of plastic for multi-layer inflatable prototyping.
 
 <div class="clearfix"><a href="/objects/hot-end-extension-1.stl" download="hook.stl">
   <img class="left" src="/images/hook-2.png" alt="hook">
 </a>
 
 <h2 style="clear: right">Hook</h2>
-By clicking on the image, you can download the hook tool in .STL format. This can then be 3D printed, assembled and then attached to the hot end of the 3D printer for inflatable prototyping.</div>
+By clicking on the image, you can download the hook tool in .STL format. This can then be 3D printed, assembled and then attached to the hot end of the 3D printer. The hook can be used to pull new layers of plastic sheets onto the printer bed automatically.</div>
