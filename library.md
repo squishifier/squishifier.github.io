@@ -60,7 +60,7 @@ G00 Z5
 
 ## Add new layer
 
-You can insert this section of code into your .GCODE file where you require the 3D printer to load a new layer of plastic sheet on top of the prototype. This code is only functional if the 3D printed add-ons available from the Tools section are attached to the 3D printer.
+You can insert this section of code into your .GCODE file where you require the 3D printer to load a new layer of plastic sheet on top of the prototype. This code is only functional if the 3D printed add-ons available from the <strong><a href="./tools">Tools</a></strong> section are attached to the 3D printer.
 
 ```
 G0 Z10
